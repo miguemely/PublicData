@@ -11,3 +11,9 @@ SHIFT RH LEFT 1 POS,
 JUMP TO LINE 7 IF RH NE (10),
 JUMP TO LINE 9 IF RH EQ (10), *#START RH ONLY*
 STOP
+
+
+# Code created and modified by Miguel R. and Jonathan M.
+# 1/12/2017
+# Language: CSTM-CODEORG-U3
+# This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. DATED 2017
